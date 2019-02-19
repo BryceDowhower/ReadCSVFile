@@ -40,7 +40,7 @@
             // 
             // TxtBxSelectFolder
             // 
-            this.TxtBxSelectFolder.Location = new System.Drawing.Point(53, 76);
+            this.TxtBxSelectFolder.Location = new System.Drawing.Point(53, 89);
             this.TxtBxSelectFolder.Margin = new System.Windows.Forms.Padding(8, 7, 8, 7);
             this.TxtBxSelectFolder.Name = "TxtBxSelectFolder";
             this.TxtBxSelectFolder.Size = new System.Drawing.Size(865, 38);
